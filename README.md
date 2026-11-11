@@ -2,18 +2,7 @@
 
 <p><code>missatha@github ~ $ ./maintainer.sh</code></p>
 
-```text
-┌─ SYSTEM.INFO ─────────────────────────────────────────────┐
-│                                                           │
-│  Subject    ··········  missatha                          │
-│  Handle     ··········  @missatha                         │
-│  Role       ··········  she's got wit, she commits        │
-│  Status     ··········  Building | Learning | Shipping    │
-│  Languages  ··········  CSS, JavaScript, Python           │
-│  Contact    ··········  github.com/missatha               │
-│                                                           │
-└───────────────────────────────────────────────── ● LIVE ──┘
-```
+<img src="./profile-scan.svg" width="860" alt="missatha cyberpunk profile scan" />
 
 ### missatha
 
